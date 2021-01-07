@@ -4,21 +4,17 @@
 
 The purpose of the analysis is to provide an in-depth analysis of UFO sightings by allowing users to filter for date, city, state, country and shape at the same time.
 
-### Results: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+### Results
 
-* Screens with filtering capability
-![onefilter](https://github.com/Coachnmomof3/UFOs/blob/main/static/images/Filters.png)
-
+First step we will locate the "Enter a State" filter this is under the Filter Table section you will enter the abbreviation "ca" into the search bar then press the "Filter Table" Button. The image below displays the results of our selection with multipule lines.
 ![multipulefilters](https://github.com/Coachnmomof3/UFOs/blob/main/static/images/All%20Filters.png)
 
-Above are images of The UFO sightings tables that show the users capability to filter based on date, city, state, country and shape.
+Now we will filter based on city, state, and shape. As displayed in the image below there are less sightings displayed due to the specifics in our search criteria. 
+![onefilter](https://github.com/Coachnmomof3/UFOs/blob/main/static/images/Filters.png)
 
-Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
+Above are images of The UFO sightings tables that show the users capability to filter based on date, city, state, country and shape. It also allows to search by only one variable if chosen.
 
-One drawback of the design is that it doesnt capture the error and display a user friendly message if users inputs wrong data to be filtered.
 
-It also doesnt display the results if the user inputs data with a different case than lower case.
+## Summary
 
-The search criteria could be more precise with pictures of the sightings with other technical findings about the UFO sightings.
-
-It would be a great idea to add a feature to provide a comparison for any two or more UFO sightings to find similarities or differences.
+The case sensative design is a drawback that was noticed, it does not display the results if the user inputs data if the variation has any capitalized letters in the filtering area.  Including a user friendly modification such as capturing errors to display a message if users inputs unrecognizable data in the filter option would help the user understand that they need to refilter with different variables. Modifing the search results to include pictures of the sightings with references to events on findings about the UFO sightings would be great for further development. 
