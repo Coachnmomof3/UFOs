@@ -6,8 +6,10 @@ The purpose of the analysis is to provide an in-depth analysis of UFO sightings 
 
 ### Results: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
 
-* Screen with filtering capability
-![]()
+* Screens with filtering capability
+![onefilter](https://github.com/Coachnmomof3/UFOs/blob/main/static/images/Filters.png)
+
+![multipulefilters](https://github.com/Coachnmomof3/UFOs/blob/main/static/images/All%20Filters.png)
 
 Above are images of The UFO sightings tables that show the users capability to filter based on date, city, state, country and shape.
 
