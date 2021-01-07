@@ -6,13 +6,13 @@ The purpose of the analysis is to provide an in-depth analysis of UFO sightings 
 
 ### Results
 
-First step we will locate the "Enter a State" filter this is under the Filter Table section you will enter the abbreviation "ca" into the search bar then press the "Filter Table" Button. The image below displays the results of our selection with multipule lines.
+First step we will locate the "Enter a State" filter this is under the Filter Table section you will enter the abbreviation "ca" into the search bar then press the "Filter Table" Button. The image below displays the results of our selection with multipule lines of accounts for our search.
+
 ![multipulefilters](https://github.com/Coachnmomof3/UFOs/blob/main/static/images/All%20Filters.png)
 
 Now we will filter based on city, state, and shape. As displayed in the image below there are less sightings displayed due to the specifics in our search criteria. 
-![onefilter](https://github.com/Coachnmomof3/UFOs/blob/main/static/images/Filters.png)
 
-Above are images of The UFO sightings tables that show the users capability to filter based on date, city, state, country and shape. It also allows to search by only one variable if chosen.
+![onefilter](https://github.com/Coachnmomof3/UFOs/blob/main/static/images/Filters.png)
 
 
 ## Summary
